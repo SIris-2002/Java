@@ -1,0 +1,45 @@
+PRINT EVEN NUMBERS FROM 1 TO 100.
+
+public class main{
+public static void main(String[] args){
+int i=0;
+while(i<=100){
+System.out.println(i);
+i+=2;
+}
+}
+}
+Output:
+0
+2
+4
+5
+8
+....
+100
+/////
+PRINT NUMBERS WHICH ARE DIVISIBLE BY 7 FROM RANGE 150 T0 200
+
+public class Main {
+    public static void main(String[] args) {
+        int i = 150; 
+        do {
+            if (i % 7 == 0) { 
+                System.out.println(i);
+            }
+            i++; 
+        } while (i <= 200); 
+    }
+}
+OUTPUT 
+
+154
+161
+168
+175
+182
+.....196
+
+
+
+
