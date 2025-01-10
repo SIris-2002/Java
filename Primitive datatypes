@@ -1,0 +1,30 @@
+public class Main {
+    public static void main(String[] args) {
+        byte noOfFriends = 30;
+        short noOfStudents = 220;
+        int populationOfIndia = 1400000000;
+        long aadharNumber = 123456780L;
+        float loanInterest = 19.9f;
+        double piValue = 3.1476789d;
+        boolean isJavaEasy = true;
+        char sirisha = 's';
+
+        System.out.println("Number of friends: " + noOfFriends);
+        System.out.println("Number of students: " + noOfStudents);
+        System.out.println("Population of India: " + populationOfIndia);
+        System.out.println("Aadhar number: " + aadharNumber);
+        System.out.println("Loan interest: " + loanInterest);
+        System.out.println("PI value: " + piValue);
+        System.out.println("Is Java easy? " + isJavaEasy);
+        System.out.println("First letter of Sirisha: " + sirisha);
+OUTPUT:
+Number of friends: 30
+Number of students: 220
+Population of India: 1400000000
+Aadhar number: 123456780
+Loan interest: 19.9
+PI value: 3.1476789
+Is Java easy? true
+First letter of Sirisha: s
+
+
