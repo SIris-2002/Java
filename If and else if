@@ -1,0 +1,10 @@
+public class main{
+ public static void main(String [] args){
+  int i=15;
+if(i<=18){
+  System.out.println("Age is not suitable for vote);
+}
+else if(i>=18){
+  System.out.println("age is suitable");
+}
+}
